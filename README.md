@@ -1,1 +1,1 @@
-# Build_your_Model
+This project involves predicting outcomes using a simple model. It includes steps such as data preprocessing, model building, and concludes with evaluating the model's performance through metrics and visualizations.
